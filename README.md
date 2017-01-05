@@ -1,2 +1,2 @@
 # dataDig
-Repo for all the exercises in Computers and Digital tecnique.
+Repo for exercises in Computers and Digital tecnique.
